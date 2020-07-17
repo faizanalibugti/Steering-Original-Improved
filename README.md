@@ -7,4 +7,4 @@ This repository introduces changes to our original steering angle model in the h
 3. Run ***python steer.py**
 
 Screen Capture parameters in line 38 by default are:
-monitor = {"top": 40, "left": 50, "width": 1000, "height": 600}
+monitor = {"top": 340, "left": 200, "width": 600, "height": 250}

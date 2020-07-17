@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
             with mss.mss() as sct:
                 # Part of the screen to capture
-                monitor = {"top": 40, "left": 50, "width": 1000, "height": 600}
+                monitor = {"top": 340, "left": 200, "width": 600, "height": 250}
                 #monitor = {"top": 200, "left": 100, "width": 640, "height": 480}
 
                 while "Screen capturing":
